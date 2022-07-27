@@ -1,0 +1,13 @@
+beautifulsoup4==4.11.1
+celery==5.2.7
+dj-database-url==0.5.0
+Django==4.0.6
+django-crispy-forms==1.14.0
+django-debug-toolbar==3.5.0
+django-ratelimit==3.0.1
+geoip2==4.6.0
+html2text==2020.1.16
+psycopg2-binary==2.9.3
+python-decouple==3.6
+pytz==2022.1
+requests==2.28.1

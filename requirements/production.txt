@@ -1,0 +1,4 @@
+-r base.txt
+
+gunicorn==20.1.0
+raven==6.10.0
